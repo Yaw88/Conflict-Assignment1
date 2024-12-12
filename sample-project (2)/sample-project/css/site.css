@@ -35,7 +35,7 @@
         }
 
         .description {
-            font-size: 34px;
+            font-size: 36px; /*branch1 changed from 34 to 36*/
             line-height: 40px;
         }
 
